@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wp.technologyreview.com/wp-content/uploads/2021/04/Atlas-of-AI_-illustrations-1-2.jpg?resize=1200,600" alt="Atlas of AI Banner" width="900" height="450" />
+  <img src="https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/sketchnotes/ai-symbolic.png?resize=1200,600" alt="Atlas of AI Banner" width="900" height="450" />
 </p>
 <h1 align="center">Hi 👋, I'm Mohammad Aqueel</h1>
 <h3 align="center">GenAI Engineer Committed to Innovation</h3>
